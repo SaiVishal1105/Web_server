@@ -1,6 +1,4 @@
 # Developing a Simple Webserver
-Name   : Sai Vishal D
-Ref.No.: 23013576
 
 # AIM:
 
